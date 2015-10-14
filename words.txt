@@ -10217,7 +10217,7 @@ commissioner
 malta
 actuated
 fibre
-ohg.
+ohg
 joyously
 evan
 continuously
@@ -10444,7 +10444,7 @@ consuming
 licence
 lucas
 unfold
-pt.
+pt
 tottering
 fir
 relinquish
@@ -10506,7 +10506,7 @@ masked
 presumably
 abbe
 drought
-joe.
+joe
 saddled
 parrot
 brittany
@@ -10527,7 +10527,7 @@ amos
 napkin
 importation
 fry
-rom.
+rom
 dessert
 keel
 incredulous
@@ -10935,7 +10935,7 @@ fickle
 onset
 disciplined
 magnet
-deg.
+deg
 romeo
 suck
 unearthly
@@ -10983,7 +10983,7 @@ denounce
 indictment
 pits
 extinguish
-wit.
+wit
 boudoir
 tiptoe
 obstruction
@@ -12043,7 +12043,7 @@ interwoven
 oriental
 'twill
 legislator
-vs.
+vs
 tribal
 informal
 granddaughter
@@ -12229,7 +12229,7 @@ formations
 pop
 assortment
 dexterous
-jer.
+jer
 libel
 squaw
 undress
@@ -12404,7 +12404,7 @@ grapple
 pranks
 foothold
 irreparable
-goth.
+goth
 worshipping
 daughter-in-law
 chisel
@@ -12438,7 +12438,7 @@ decorous
 forked
 gangway
 postal
-ps.
+ps
 beget
 ennui
 moi
@@ -12497,7 +12497,7 @@ grouse
 spectral
 intervene
 acquiesce
-op.
+op
 bellows
 overnight
 polar
@@ -12819,7 +12819,7 @@ canned
 innkeeper
 scarred
 undoing
-nat.
+nat
 brittle
 eliminated
 prohibit
@@ -13015,7 +13015,7 @@ dictator
 normally
 approvingly
 herring
-sent.
+sent
 preoccupation
 satellite
 slipper
@@ -13053,7 +13053,7 @@ stilled
 cadet
 approximate
 consolidated
-fig.
+fig
 font
 locket
 populations
@@ -13594,7 +13594,7 @@ ap
 seaweed
 amiably
 chemicals
-heb.
+heb
 predatory
 prodigy
 scamp
@@ -13668,7 +13668,7 @@ glint
 quill
 ecclesiastic
 tier
-act.
+act
 elation
 recluse
 ostend
@@ -13917,7 +13917,7 @@ bedtime
 patrimony
 wicker
 invocation
-ste.
+ste
 ventilation
 vertically
 equestrian
@@ -14357,7 +14357,7 @@ love-making
 capability
 estrangement
 hearse
-pa.
+pa
 versus
 able-bodied
 dissipate
@@ -14619,7 +14619,7 @@ judiciary
 reappearance
 rape
 atheism
-ind.
+ind
 ariel
 franc
 stockholm
@@ -14821,7 +14821,7 @@ morass
 reclaim
 reminiscent
 eye-witness
-inc.
+inc
 inferno
 lawlessness
 muslim
@@ -14893,7 +14893,7 @@ commentaries
 conducts
 culinary
 grooves
-isa.
+isa
 rheumatic
 scouring
 adulation
@@ -15010,7 +15010,7 @@ unattended
 uplift
 loot
 quasi
-tenn.
+tenn
 preventive
 scion
 thunderstorm
@@ -15234,7 +15234,7 @@ tut
 widen
 damaging
 deduce
-va.
+va
 illuminate
 hurrah
 meuse
@@ -15640,7 +15640,7 @@ musa
 nauseous
 bret
 gradation
-ill.
+ill
 sc
 thereunto
 venal
@@ -15676,7 +15676,7 @@ giggling
 goad
 postponement
 unproductive
-conn.
+conn
 etruria
 ogre
 palermo
@@ -15789,7 +15789,7 @@ collation
 corpulent
 feudalism
 bulgarian
-cr.
+cr
 excise
 generating
 materialistic
@@ -16314,7 +16314,7 @@ cowl
 poseidon
 undefiled
 crier
-p.p.
+pp
 saliva
 congestion
 cube
@@ -16400,7 +16400,7 @@ albanian
 coffer
 gill
 entangle
-ltd.
+ltd
 molecular
 rattlesnake
 barnaby
@@ -16662,7 +16662,7 @@ abdul
 acumen
 broil
 churlish
-jo.
+jo
 nothings
 azores
 eradicate
@@ -16793,7 +16793,7 @@ palatial
 saline
 slavic
 idyllic
-sat.
+sat
 southwark
 trollope
 kabul
@@ -16816,7 +16816,7 @@ wriggle
 blare
 animates
 corse
-eph.
+eph
 hoot
 perishes
 plait
@@ -17116,7 +17116,7 @@ celt
 jointed
 epirus
 inflected
-jos.
+jos
 lucerne
 nibble
 purl
@@ -17258,7 +17258,7 @@ seventy-four
 plantains
 shambles
 gambia
-ky.
+ky
 sacristan
 feline
 puddles
@@ -17706,7 +17706,7 @@ scurrilous
 womanish
 canvassing
 engross
-inst.
+inst
 isolate
 nc
 pulsation
@@ -17739,7 +17739,7 @@ protectorate
 sated
 benny
 canny
-gov.
+gov
 palaver
 albumen
 hives
@@ -17797,7 +17797,7 @@ incursion
 servitor
 television
 unafraid
-ala.
+ala
 daunt
 huddle
 liqueur
@@ -18587,7 +18587,7 @@ sark
 airplane
 astringent
 beaker
-ezek.
+ezek
 fastness
 imperialism
 libretto
@@ -18610,7 +18610,7 @@ optic
 scimitar
 well-founded
 curd
-lev.
+lev
 prolix
 salzburg
 trinity
@@ -19099,7 +19099,7 @@ flaunt
 jennifer
 knickerbockers
 lariat
-ph.d.
+phd
 slot
 uninformed
 assimilating
@@ -19195,7 +19195,7 @@ bruit
 cabaret
 callow
 foible
-pro.
+pro
 purveyor
 vail
 vegetarian
@@ -19232,7 +19232,7 @@ norm
 reiterate
 riga
 sunflower
-feat.
+feat
 ft
 hock
 lop
@@ -19563,7 +19563,7 @@ purblind
 supernal
 twenty-seventh
 yearling
-adm.
+adm
 allot
 baiting
 bookish
@@ -19748,7 +19748,7 @@ recession
 satrap
 taffrail
 terrorism
-ark.
+ark
 bosh
 conscript
 dangle
@@ -19790,7 +19790,7 @@ digressions
 emendation
 groin
 lumpy
-p.pr.
+ppr
 probate
 ammonium
 bigamy
